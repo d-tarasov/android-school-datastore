@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Datastore Example</string>
+
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+    <string name="shared_prefs" translatable="false">Shared Preferences</string>
+    <string name="sqlite" translatable="false">SQLite 3</string>
+    <string name="sqlite_orm" translatable="false">SQLite + ORMLite</string>
+    <string name="sqlite_orm_cipher" translatable="false">SQLite + ORMLite + SQLCipher</string>
+    <string name="content_provider" translatable="false">Content Provider</string>
+
+    <string name="dummy_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="delete">Delete</string>
+
+    <string name="type_bool">bool</string>
+    <string name="type_float">float</string>
+    <string name="type_int">int</string>
+    <string name="type_long">long</string>
+    <string name="type_string">String</string>
+    <string name="type_string_set"><![CDATA[Set<String>]]></string>
+    <string name="sqlite_id">id</string>
+    <string name="sqlite_value">value</string>
+    <string name="sqlite_plus">+</string>
+    <string name="sqlite_minus">-</string>
+</resources>

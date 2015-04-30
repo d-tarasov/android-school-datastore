@@ -1,0 +1,18 @@
+buildscript {
+    repositories {
+        maven {
+            url = "http://repo1.maven.org/maven2/"
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.1'
+    }
+}
+
+allprojects {
+    repositories {
+        maven {
+            url = "http://repo1.maven.org/maven2/"
+        }
+    }
+}
